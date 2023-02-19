@@ -6,4 +6,7 @@
 - [source](https://www.datosabiertos.gob.pe/dataset/resultados-por-mesa-de-las-elecciones-presidenciales-2021-segunda-vuelta-oficina-nacional-de)
 - last accessed: 2023-02-08
 
-2. 
+2. Bibliography bibtex and biblatex
+- [bibtex]
+- [biblatex]
+- last updated: 2023-02-19
